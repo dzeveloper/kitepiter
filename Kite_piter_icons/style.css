@@ -1,0 +1,116 @@
+@font-face {
+	font-family: 'Kite_piter_icons';
+	src:url('fonts/Kite_piter_icons.eot?-be1086');
+	src:url('fonts/Kite_piter_icons.eot?#iefix-be1086') format('embedded-opentype'),
+		url('fonts/Kite_piter_icons.ttf?-be1086') format('truetype'),
+		url('fonts/Kite_piter_icons.woff?-be1086') format('woff'),
+		url('fonts/Kite_piter_icons.svg?-be1086#Kite_piter_icons') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'Kite_piter_icons';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrow_down:before {
+	content: "\e617";
+}
+.icon-arrow_up:before {
+	content: "\e618";
+}
+.icon-arrow_2:before {
+	content: "\e616";
+}
+.icon-vk .path1:before {
+	content: "\e600";
+	color: rgb(83, 117, 153);
+}
+.icon-vk .path2:before {
+	content: "\e601";
+	margin-left: -1em;
+	color: rgba(0, 0, 0, 0.300000011920929);
+}
+.icon-vk .path3:before {
+	content: "\e602";
+	margin-left: -1em;
+	color: rgb(255, 255, 255);
+}
+.icon-facebook .path1:before {
+	content: "\e603";
+	color: rgb(69, 97, 157);
+}
+.icon-facebook .path2:before {
+	content: "\e604";
+	margin-left: -1em;
+	color: rgb(255, 255, 255);
+}
+.icon-facebook .path3:before {
+	content: "\e605";
+	margin-left: -1em;
+	color: rgba(0, 0, 0, 0.300000011920929);
+}
+.icon-arrow:before {
+	content: "\e606";
+}
+.icon-arrow_legend:before {
+	content: "\e607";
+}
+.icon-btn_paginator_banner:before {
+	content: "\e608";
+}
+.icon-btn_paginator_banner_hower:before {
+	content: "\e609";
+}
+.icon-clock:before {
+	content: "\e60a";
+}
+.icon-close:before {
+	content: "\e60b";
+}
+.icon-dollar:before {
+	content: "\e60c";
+}
+.icon-facebook2:before {
+	content: "\e60d";
+}
+.icon-icon_i:before {
+	content: "\e60e";
+}
+.icon-icon_legend .path1:before {
+	content: "\e60f";
+	color: rgb(0, 0, 0);
+}
+.icon-icon_legend .path2:before {
+	content: "\e610";
+	margin-left: -1em;
+	color: rgb(255, 255, 255);
+}
+.icon-icon_legend_2 .path1:before {
+	content: "\e611";
+	color: rgb(0, 0, 0);
+}
+.icon-icon_legend_2 .path2:before {
+	content: "\e612";
+	margin-left: -1em;
+	color: rgb(255, 255, 255);
+}
+.icon-search:before {
+	content: "\e613";
+}
+.icon-vk5:before {
+	content: "\e614";
+}
+.icon-zoom:before {
+	content: "\e615";
+}
